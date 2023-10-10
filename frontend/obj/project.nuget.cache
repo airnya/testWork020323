@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "51njKjLE1ty1dyD5QU5qg5DOzx8BYZ8XFtJBYUBmbYqJQB1+83j1UnMCssaTWIvN3LjAnVKWMPs2vTUE4zhynQ==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\skill-check-repo-kubatov\\frontend\\frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Airnya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
